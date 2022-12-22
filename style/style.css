@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+.preco{
+margin-left: auto;
+margin-right: auto;
+font-family: 'Modernica';
+font-size: 24px;
+text-align: center;
+color: #053056;}
+
+.text{
+margin-left: auto;
+margin-right: auto;
+font-family: 'Modernica';
+font-size: 24px;
+text-align: center;
+color: #053056;}
+
+.text1{
+font-family: 'Modernica';
+font-size: 36px;
+text-align: center;
+color: #053056;}
+
+.text2{
+font-family: 'Modernica';
+font-size: 26px;
+text-align: center;
+color: #053056;}
+
+.Observacoes{
+font-family: 'Modernica';
+font-size: 16px;
+text-align: center;
+color: #053056;}
+
+.img{
+max-resolution: 100%;	
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: auto;
+width: auto;	
+}
